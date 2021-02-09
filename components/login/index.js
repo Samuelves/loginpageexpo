@@ -124,7 +124,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center', //alinha verticalmente
   },
   container:{
-    flex: 1, //o container da imagem e dos inputs vão dividir o espaço entre eles
+    flex: 1, 
     alignItems: 'center',
     justifyContent: 'center',
     width: '90%',
